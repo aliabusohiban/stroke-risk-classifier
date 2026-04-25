@@ -50,15 +50,16 @@ All models were tuned using `GridSearchCV` with `scoring='recall_macro'` and 3-f
 | Random Forest | `n_estimators`, `max_depth`, `min_samples_leaf`, `max_features`, `class_weight` |
 
 ---
-
 ## 📁 Project Structure
+
+```
 stroke-risk-classifier/
 │
 ├── images/
 │   └── model_comparison.png
 ├── Decision_Tree_LogReg_Random_Forest_or_KNN.ipynb
 └── README.md
----
+```
 
 ## ⚙️ Requirements033
 pandas
