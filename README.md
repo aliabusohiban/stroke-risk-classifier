@@ -55,8 +55,7 @@ All models were tuned using `GridSearchCV` with `scoring='recall_macro'` and 3-f
 ```
 stroke-risk-classifier/
 │
-├── images/
-│   └── model_comparison.png
+├── model_comparison.png
 ├── Decision_Tree_LogReg_Random_Forest_or_KNN.ipynb
 └── README.md
 ```
