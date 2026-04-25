@@ -6,7 +6,8 @@ A machine learning project that builds, tunes, and compares multiple classificat
 
 ## 📊 Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+<img width="989" height="490" alt="download" src="https://github.com/user-attachments/assets/a33f9f48-122e-4bb9-a66b-d816e696922e" />
+
 
 The three tuned models (Logistic Regression, Decision Tree, Random Forest) dramatically outperform their defaults and both KNN variants. Default models and KNN essentially failed to detect stroke cases, with stroke recall below 0.20.
 
