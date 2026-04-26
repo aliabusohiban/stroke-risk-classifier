@@ -61,10 +61,10 @@ stroke-risk-classifier/
 ```
 
 ## ⚙️ Requirements033
-pandas
-numpy
-matplotlib
-scikit-learn
+* pandas
+* numpy
+* matplotlib
+* scikit-learn
 
 ---
 
@@ -82,4 +82,4 @@ scikit-learn
 
 ## 👤 Author
 
-Ali Abusohiban — [GitHub](https://github.com/aliabusohiban)
+Ali Abu Sohiban — [GitHub](https://github.com/aliabusohiban)
